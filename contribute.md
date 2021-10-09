@@ -35,7 +35,6 @@ happy hactoberfest 2021
 
 <p>Adepu Loukya | <a href="https://github.com/A-Loukya">A-Loukya</a> | <a href="adepuloukya1@gmail.com">mail id</a> | </p>
 
-
 <p>Arpan Maheshwari | <a href="https://github.com/ArpanMaheshwari144">ArpanMaheshwari144</a> | <a href="maheshwariarpan828@gmail.com">Email ID</a> | </p>
 
 <p>Aaditya Kumra | <a href="https://github.com/AadityaKumra">aaditya kumra</a> | <a href="aadityakumra@gmail.com">mail id</a> | </p>
@@ -43,4 +42,4 @@ happy hactoberfest 2021
 
 <p>Anurag Rai | <a href="https://github.com/githubANURAG1">anurag rai</a> | <a href="anurag0429rai@gmail.com">mail id</a> | </p>
 
-
+<p>Aman Rawat | <a href="https://github.com/AmanRawat5"> Aman Rawat</a> | <a href="aman.rawat1609@gmail.com">mail id</a> | </p>
